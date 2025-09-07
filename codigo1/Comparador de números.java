@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ComparadordeNumeros {
+public class CompararNumeros {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("ingrese el primer numero:");
